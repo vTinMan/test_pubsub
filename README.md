@@ -1,4 +1,4 @@
-Experimental Publisher-Subsriber service based on HTTP, implemented on async_std without special web frameworks and libraries.
+Draft Publisher-Subscriber service based on HTTP, implemented on async_std without special web frameworks and libraries.
 
 ### Use case:
 
