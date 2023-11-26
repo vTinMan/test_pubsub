@@ -1,0 +1,15 @@
+[package]
+name = "exp_echo_rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+async-std = "1.12.0"
+futures = "0.3"
+once_cell = "1.18.0"
+log = "0.4.20"
+env_logger = "0.9.0"
+
+[dependencies.uuid]
+version = "1.4.1"
+features = ["v4"]
